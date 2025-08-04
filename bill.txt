@@ -1,0 +1,9 @@
+===== MINI E-COMMERCE BILL =====
+Customer: Suresh
+Items Purchased:
+- Mobile : ₹20000
+- Cycle : ₹9000
+Subtotal: ₹29000
+GST (18%): ₹5220.00
+Total Amount: ₹23780.00
+===============================
